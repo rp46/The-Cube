@@ -3,5 +3,5 @@ The cube is a rolling cube game inspired by the original game named edge. It is 
 Just download the repo, open in unity and build for windows(/linux/mac) and run.<br>
 Controls are:<br>
 Arrow keys for movements.<br>
-Left and right clicks for the camera.<br>
+Left and right clicks for the two camera views.<br>
 'k' for screenshots.
